@@ -4,7 +4,7 @@ const chalk = require("chalk");
 //to enable function - true
 //to disable function - false
 //
-global.available = false;
+global.available = true;
 global.autoReadGc = false;
 global.autoReadAll = false;
 global.antitags = false;
@@ -17,13 +17,13 @@ global.groupevent = true;                //This is the new variable for controll
 global.statusseen = false;                 //make true to view statuses 
 
 
-global.Owner = [""];
-global.OwnerNumber = [""];
-global.ownertag = [""]; 
-global.OwnerName =  "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
-global.BotName = "🐦Makino-md-v2";
-global.packname = "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";                             //Do not change.
-global.author = "🐦Makino md ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ";                               //Do not change.
+global.Owner = ["Mabhosiedu RoynJK 😎👽"];
+global.OwnerNumber = ["263774918784"];
+global.ownertag = ["263774918784"]; 
+global.OwnerName =  "Mabhosiedu RoynJK 😎👽😎";
+global.BotName = "🐦Makino-md-v2😎👽";
+global.packname = "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ😎👽";                             //Do not change.
+global.author = "🐦Makino md ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ😎👽";                               //Do not change.
 global.BotSourceCode = "https://github.com/anonphoenix007/MAKINO-MD-V2"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/KEg0G3UUs1G39ikdyfF5Pm "; 
 global.SupportGroupLink = "https://chat.whatsapp.com/KEg0G3UUs1G39ikdyfF5Pm"; //Do not change!
@@ -48,24 +48,24 @@ global.ntilinkfb = []
 global.ntilinktg = []
 global.ntilinktt = []
 global.ntilinktwt = []
-global.ntilinkall = []
-global.nticall = []
+global.ntilinkall = [true]
+global.nticall = [true]
 global.ntwame = []
 global.nttoxic = []
 global.ntnsfw = []
 global.ntvirtex = []
 global.rkyt = []
-global.wlcm = []
+global.wlcm = [true]
 global.gcrevoke = []
 global.autorep = []
-global.ntilink = []
+global.ntilink = [true]
 
 
 //
 global.mess = {
     jobdone: 'Here you go...',
     useradmin: 'Only group Admin can use the command 😂 ',
-    botadmin: 'Make me Admin first 😌📍.',
+    botadmin: 'Make me Admin first 😌📍😎👽.',
     botowner: 'Only my *Owner* can use this command,Dont trespass, Baka!',
     grouponly: 'This command is only made for *Groups*, Baka!',
     privateonly: 'This command is only made for *Private Chat*, Baka!',
@@ -73,7 +73,7 @@ global.mess = {
     waiting: 'Wait a lil bit (¬_¬)ﾉ...',
     nolink: ' provide me *link*, Baka!',
     error: 'An error occurd!',
-    banned: 'You cant use the commands because you Are *Banned*',
+    banned: 'You cant use the commands because you Are *Banned*👽😎👽',
     bangc: 'This Group is *Banned* from using Commands!',
     nonsfw: 'Dont be a pervert,idiot! This is not a NSFW enabled group!'
     
